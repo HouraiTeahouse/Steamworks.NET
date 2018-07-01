@@ -1,0 +1,9 @@
+{
+  "name": "com.rlabreque.steamworks.Standalone",
+  "references": [
+    "com.rlabreque.steamworks.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
