@@ -3,5 +3,8 @@
   "name": "com.rlabrecque.steamworks",
   "displayName": "Steamworks.NET",
   "version": "11.0.0",
-  "description": "Steamworks Integration Library for Unity"
+  "description": "Steamworks Integration Library for Unity",
+  "homepage": "https://steamworks.github.io/",
+  "bugs": "https://github.com/rlabrecque/Steamworks.NET/issues",
+  "repository": "github:rlabrecque/Steamworks.NET"
 }
