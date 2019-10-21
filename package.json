@@ -6,5 +6,8 @@
   "description": "Steamworks Integration Library for Unity",
   "homepage": "https://steamworks.github.io/",
   "bugs": "https://github.com/rlabrecque/Steamworks.NET/issues",
-  "repository": "github:rlabrecque/Steamworks.NET"
+  "repository": "github:rlabrecque/Steamworks.NET",
+  "publishConfig": {
+    "registry": "https://upm.houraiteahouse.net"
+  }
 }
